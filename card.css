@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;1,900&display=swap');
+.card-name {
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik Mono One', sans-serif;
+    margin-bottom: 5px;
+    color: rgb(17, 57, 92);
+}
